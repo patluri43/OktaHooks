@@ -1,5 +1,9 @@
 package com.okta.hooks.Inline.PasswordImportHook.ResponseModal;
 
+
+import org.springframework.stereotype.Component;
+
+@Component
 public class ResponseValue {
 
 

@@ -1,7 +1,10 @@
 package com.okta.hooks.Inline.PasswordImportHook.ResponseModal;
 
+import org.springframework.stereotype.Component;
+
 import java.util.ArrayList;
 
+@Component
 public class ResponseCommands {
 
     private ArrayList commands;

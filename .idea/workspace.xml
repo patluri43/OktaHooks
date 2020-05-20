@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae1db0f8-8bb8-4dde-8aa3-d46760c33c0b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/PasswordImport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/PasswordImport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/service/LegacyAuthenticator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/service/LegacyAuthenticator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/ResponseModal/ResponseCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/ResponseModal/ResponseCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/ResponseModal/ResponseCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/ResponseModal/ResponseCommands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/ResponseModal/ResponseValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/ResponseModal/ResponseValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/service/ComposeHookResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/service/ComposeHookResponse.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,16 +24,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/PasswordImport.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
+            <state relative-caret-position="495">
               <caret line="53" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/service/LegacyAuthenticator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
+            <state relative-caret-position="454">
               <caret line="36" column="64" selection-start-line="36" selection-start-column="64" selection-end-line="36" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -43,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/service/ComposeHookResponse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+            <state relative-caret-position="102">
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,8 +57,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/ResponseModal/ResponseCommands.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/ResponseModal/ResponseCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -64,8 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/ResponseModal/ResponseValue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="75">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -101,10 +115,12 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/model/PasswordImportHook/ResponseModel/ResponseValue.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/ResponseModel/ResponseCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/ResponseModal/ResponseCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/service/ComposeHookResponse.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/PasswordImport.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/service/LegacyAuthenticator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/service/ComposeHookResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/ResponseModal/ResponseValue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/ResponseModal/ResponseCommands.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/ResponseModal/ResponseCommand.java" />
       </list>
     </option>
   </component>
@@ -122,11 +138,11 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="51" />
-    <option name="y" value="30" />
-    <option name="width" value="1680" />
-    <option name="height" value="954" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1680" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -186,6 +202,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hooks" type="462c0819:PsiDirectoryNode" />
               <item name="PasswordImportHook" type="462c0819:PsiDirectoryNode" />
+              <item name="ResponseModal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hooks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OktaHooks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hooks" type="462c0819:PsiDirectoryNode" />
+              <item name="PasswordImportHook" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -211,7 +237,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590006472157" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590006769331" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RecentsManager">
@@ -245,7 +271,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="30" width="1680" height="954" extended-state="0" />
+    <frame x="1680" y="23" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -253,21 +279,21 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21778488" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32946634" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29430053" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" visible="true" weight="0.32967034" />
+      <window_info anchor="right" id="Maven" visible="true" weight="0.28753993" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -279,20 +305,6 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/ResponseModal/ResponseCommands.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/ResponseModal/ResponseValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/RequestModal/PasswordImportRequestModal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -300,17 +312,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/ResponseModal/ResponseCommand.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/service/LegacyAuthenticator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/service/ComposeHookResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        <state relative-caret-position="454">
+          <caret line="36" column="64" selection-start-line="36" selection-start-column="64" selection-end-line="36" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -319,18 +324,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/PasswordImport.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
+        <state relative-caret-position="495">
           <caret line="53" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/service/LegacyAuthenticator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/service/ComposeHookResponse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="36" column="64" selection-start-line="36" selection-start-column="64" selection-end-line="36" selection-end-column="64" />
+        <state relative-caret-position="102">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/ResponseModal/ResponseValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/ResponseModal/ResponseCommands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/ResponseModal/ResponseCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
         </state>
       </provider>
     </entry>
