@@ -1,4 +1,4 @@
-package com.okta.hooks.Inline;
+package com.okta.hooks.Inline.PasswordImportHook.ResponseModal;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package model.PasswordImportHook.RequestModel;
+package com.okta.hooks.Inline.PasswordImportHook.RequestModal;
 
 public class RequestData {
 

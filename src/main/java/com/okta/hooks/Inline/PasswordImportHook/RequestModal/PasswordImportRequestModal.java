@@ -1,7 +1,7 @@
-package model.PasswordImportHook.RequestModel;
+package com.okta.hooks.Inline.PasswordImportHook.RequestModal;
 
 
-public class PasswordImportRequestModel {
+public class PasswordImportRequestModal {
 
     private String eventId;
     private String eventTime;
