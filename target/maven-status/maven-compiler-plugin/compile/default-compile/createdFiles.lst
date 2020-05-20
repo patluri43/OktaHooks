@@ -1,0 +1,11 @@
+model/PasswordImportHook/RequestModel/PasswordImportRequestModel.class
+com/okta/hooks/HooksApplication.class
+com/okta/hooks/Inline/PasswordImport$ResponseSingleCommand.class
+com/okta/hooks/Inline/PasswordImport.class
+com/okta/hooks/Inline/ResponseValue.class
+model/PasswordImportHook/RequestModel/RequestData.class
+com/okta/hooks/Inline/ResponseCommand.class
+model/PasswordImportHook/RequestModel/RequestCredential.class
+model/PasswordImportHook/RequestModel/RequestContext.class
+com/okta/hooks/Inline/ResponseCommands.class
+com/okta/hooks/ServletInitializer.class
