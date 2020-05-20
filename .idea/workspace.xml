@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae1db0f8-8bb8-4dde-8aa3-d46760c33c0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/service/ComposeHookResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/service/LegacyAuthenticator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/PasswordImport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/ResponseCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/ResponseModal/ResponseCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/ResponseCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/ResponseModal/ResponseCommands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/ResponseValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/ResponseModal/ResponseValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/PasswordImportHook/RequestModel/PasswordImportRequestModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/RequestModal/PasswordImportRequestModal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/PasswordImportHook/RequestModel/RequestContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/RequestModal/RequestContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/PasswordImportHook/RequestModel/RequestCredential.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/RequestModal/RequestCredential.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/PasswordImportHook/RequestModel/RequestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/RequestModal/RequestData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/okta/hooks/Inline/PasswordImport$ResponseSingleCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/okta/hooks/Inline/PasswordImport.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/okta/hooks/Inline/ResponseCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/okta/hooks/Inline/ResponseCommands.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/okta/hooks/Inline/ResponseValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/PasswordImportHook/RequestModel/PasswordImportRequestModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/PasswordImportHook/RequestModel/RequestContext.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/PasswordImportHook/RequestModel/RequestCredential.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/PasswordImportHook/RequestModel/RequestData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/PasswordImport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/PasswordImport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/service/LegacyAuthenticator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/service/LegacyAuthenticator.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,20 +19,20 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/PasswordImport.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="397">
-              <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/service/LegacyAuthenticator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="438">
+              <caret line="36" column="64" selection-start-line="36" selection-start-column="64" selection-end-line="36" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -124,8 +103,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/ResponseModel/ResponseCommand.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/ResponseModal/ResponseCommand.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/service/ComposeHookResponse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/service/LegacyAuthenticator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/PasswordImport.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/service/LegacyAuthenticator.java" />
       </list>
     </option>
   </component>
@@ -232,7 +211,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590006343726" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590006472157" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RecentsManager">
@@ -274,14 +253,14 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32946634" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32946634" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -338,20 +317,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/service/LegacyAuthenticator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/PasswordImport.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="397">
-          <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/okta/hooks/Inline/PasswordImportHook/service/LegacyAuthenticator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="36" column="64" selection-start-line="36" selection-start-column="64" selection-end-line="36" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

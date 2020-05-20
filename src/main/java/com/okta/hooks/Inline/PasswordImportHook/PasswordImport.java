@@ -51,5 +51,5 @@ public class PasswordImport {
 
         return new ResponseEntity<ResponseCommands>(computeHookResponse.computeResponse(hookverified), httpHeaders, HttpStatus.CREATED);
     }
-    
+
 }

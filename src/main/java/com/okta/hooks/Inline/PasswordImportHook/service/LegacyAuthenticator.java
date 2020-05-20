@@ -34,6 +34,7 @@ public class LegacyAuthenticator {
         /* pass the passwordImportRequest.getData().getContext().getCredential() to your legacy Authentication Service */
 
 
+        /* If Authn is success, then return value must be true*/
 
         return isAuthnSuccess;
 
